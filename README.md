@@ -1,6 +1,6 @@
 # ¡Hola! Soy Didier Esteban Achuri Lopez 👋
 
-**Desarrollador de software** enfocado en backend con Java, Spring Boot y PostgreSQL, complemented by experience in Python, JavaScript y React. Me apasiona diseñar APIs REST, modelar datos y construir aplicaciones modulares y escalables. He trabajado en proyectos como sistemas de gestión académica, inventarios con API CRUD, simuladores financieros y aplicaciones web colaborativas, usando herramientas como Maven, Postman, Git, Render y Vercel para desarrollo y despliegue.
+**Desarrollador de software** enfocado en backend con Java, Spring Boot y PostgreSQL, complemented by experience in Python, JavaScript y React. Me apasiona diseñar APIs REST, modelar datos y construir aplicaciones modulares y escalables. He trabajado en proyectos como sistemas de gestión académica, inventarios con API CRUD, simuladores financieros y aplicaciones web colaborativas, usando herramientas como Maven, Postman, Git, Render y Vercel para desarrollo y despliegue. Anhelo encontrar una empresa que me brinde la oportunidad de entregar todas mis aptitudes y habilidades.
 
 ---
 
