@@ -64,3 +64,4 @@
 
 [![Email](https://img.shields.io/badge/Email-dpachuri@cesde.net-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dpachuri@cesde.net)
 [![GitHub](https://img.shields.io/badge/GitHub-esteban95--a-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/esteban95-a)
+[![Teléfono](https://img.shields.io/badge/Tel%C3%A9fono-3128256753-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+573128256753)
