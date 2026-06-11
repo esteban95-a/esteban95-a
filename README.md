@@ -1,6 +1,6 @@
 # Hola, soy Didier Esteban Achuri Lopez 👋
 
-**Desarrollador de software** apasionado por crear soluciones eficientes y escalables. Me especializo en el desarrollo backend con Java y Spring Boot, y tengo experiencia en Python y JavaScript.
+**Desarrollador de software** apasionado por crear soluciones eficientes y escalables. Me especializo en el desarrollo backend con Java y Spring Boot, y tengo experiencia en Python , JavaScript, react,render y vercel.
 
 ---
 
