@@ -45,6 +45,10 @@
 | [desempeno-web-uno-sabado](https://github.com/esteban95-a/desempeno-web-uno-sabado) | JavaScript |
 | [SIA-proyecto](https://github.com/esteban95-a/SIA-proyecto) | HTML |
 | [taller-consulta-arreglo](https://github.com/esteban95-a/taller-consulta-arreglo) | JavaScript |
+| [control-lavanderia](https://github.com/esteban95-a/control-lavanderia) | Java |
+| [React-gestion-notas-grupo-8](https://github.com/esteban95-a/React-gestion-notas-grupo-8) | JavaScript, CSS, HTML |
+| [sistema-gestion-notas-grupo-8](https://github.com/esteban95-a/sistema-gestion-notas-grupo-8) | Java, Docker |
+| [Sistema_Gestion_notas_grupo_8_Python](https://github.com/esteban95-a/Sistema_Gestion_notas_grupo_8_Python) | Python |
 | [evidencia-conocimiento-tercer-momento-web-uno-sabado](https://github.com/esteban95-a/evidencia-conocimiento-tercer-momento-web-uno-sabado) | - |
 
 ---
