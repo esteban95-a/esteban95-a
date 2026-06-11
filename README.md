@@ -29,11 +29,11 @@
 
 | Proyecto | Tecnología | Descripción |
 |---|---|---|
-| [modelo-de-datos](https://github.com/esteban95-a/modelo-de-datos) | Java, Spring Boot, PostgreSQL | Sistema de gestión de proyectos tecnológicos |
-| [proyecto-API-inventario-alimento-para-gatos](https://github.com/esteban95-a/proyecto-API-inventario-alimento-para-gatos) | REST API | API CRUD para inventario de productos |
-| [estudiantes](https://github.com/esteban95-a/estudiantes) | Python | Sistema de registro y gestión de notas |
-| [simulador](https://github.com/esteban95-a/simulador) | JavaScript, HTML | Aplicación interactiva de simulación |
-| [python-1](https://github.com/esteban95-a/python-1) | Python | Scripts de aprendizaje |
+| [modelo-de-datos](https://github.com/esteban95-a/modelo-de-datos) | Java, Spring Boot, PostgreSQL | API REST con JPA para gestión de proyectos tecnológicos (entidades, enums, repositorio, data initializer) |
+| [proyecto-API-inventario-alimento-para-gatos](https://github.com/esteban95-a/proyecto-API-inventario-alimento-para-gatos) | REST API | API CRUD documentada con Postman sobre MockAPI para inventario de alimento para gatos (GET, POST, PUT, DELETE) |
+| [estudiantes](https://github.com/esteban95-a/estudiantes) | Python | App de consola modular para registro de estudiantes, notas con diccionarios, cálculo de promedios y estado (aprobado/reprobado) |
+| [simulador](https://github.com/esteban95-a/simulador) | JavaScript, HTML | Calculadora interactiva de consumo y tarifas de servicios públicos con datos de clientes |
+| [python-1](https://github.com/esteban95-a/python-1) | Python | Módulo de función de registro como parte del sistema de gestión académica |
 
 ### Forks y colaboraciones
 
