@@ -23,14 +23,29 @@
 
 ---
 
-## 📌 Proyectos destacados
+## 📌 Proyectos
 
-| Proyecto | Descripción |
+### Propios
+
+| Proyecto | Tecnología | Descripción |
+|---|---|---|
+| [modelo-de-datos](https://github.com/esteban95-a/modelo-de-datos) | Java, Spring Boot, PostgreSQL | Sistema de gestión de proyectos tecnológicos |
+| [proyecto-API-inventario-alimento-para-gatos](https://github.com/esteban95-a/proyecto-API-inventario-alimento-para-gatos) | REST API | API CRUD para inventario de productos |
+| [estudiantes](https://github.com/esteban95-a/estudiantes) | Python | Sistema de registro y gestión de notas |
+| [simulador](https://github.com/esteban95-a/simulador) | JavaScript, HTML | Aplicación interactiva de simulación |
+| [python-1](https://github.com/esteban95-a/python-1) | Python | Scripts de aprendizaje |
+
+### Forks y colaboraciones
+
+| Proyecto | Tecnología |
 |---|---|
-| [modelo-de-datos](https://github.com/esteban95-a/modelo-de-datos) | Sistema de gestión de proyectos tecnológicos con Spring Boot, JPA y PostgreSQL |
-| [proyecto-API-inventario-alimento-para-gatos](https://github.com/esteban95-a/proyecto-API-inventario-alimento-para-gatos) | API REST CRUD para inventario de productos, documentada con Postman |
-| [estudiantes](https://github.com/esteban95-a/estudiantes) | Sistema de registro y gestión de notas de estudiantes en Python |
-| [simulador](https://github.com/esteban95-a/simulador) | Aplicación interactiva de simulación con JavaScript y HTML |
+| [app-crm](https://github.com/esteban95-a/app-crm) | JavaScript |
+| [cesde_backend2_ejemplo_servicio](https://github.com/esteban95-a/cesde_backend2_ejemplo_servicio) | Java |
+| [26_b2_r1](https://github.com/esteban95-a/26_b2_r1) | Java |
+| [desempeno-web-uno-sabado](https://github.com/esteban95-a/desempeno-web-uno-sabado) | JavaScript |
+| [SIA-proyecto](https://github.com/esteban95-a/SIA-proyecto) | HTML |
+| [taller-consulta-arreglo](https://github.com/esteban95-a/taller-consulta-arreglo) | JavaScript |
+| [evidencia-conocimiento-tercer-momento-web-uno-sabado](https://github.com/esteban95-a/evidencia-conocimiento-tercer-momento-web-uno-sabado) | - |
 
 ---
 
