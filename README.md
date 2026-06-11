@@ -39,17 +39,17 @@
 
 | Proyecto | Tecnología | Descripción |
 |---|---|---|
-| [React-gestion-notas-grupo-8](https://github.com/esteban95-a/React-gestion-notas-grupo-8) | JavaScript, CSS, HTML | Gestión de notas académicas con React y Vite |
-| [sistema-gestion-notas-grupo-8](https://github.com/esteban95-a/sistema-gestion-notas-grupo-8) | Java, Docker | Sistema de gestión de notas con Spring Boot |
-| [Sistema_Gestion_notas_grupo_8_Python](https://github.com/esteban95-a/Sistema_Gestion_notas_grupo_8_Python) | Python | Sistema de gestión académica y análisis de calificaciones |
-| [control-lavanderia](https://github.com/esteban95-a/control-lavanderia) | Java | Sistema de control para lavandería |
-| [app-crm](https://github.com/esteban95-a/app-crm) | JavaScript | Aplicación CRM |
-| [cesde_backend2_ejemplo_servicio](https://github.com/esteban95-a/cesde_backend2_ejemplo_servicio) | Java | Ejemplo de servicio backend |
-| [26_b2_r1](https://github.com/esteban95-a/26_b2_r1) | Java | Proyecto de formación |
-| [desempeno-web-uno-sabado](https://github.com/esteban95-a/desempeno-web-uno-sabado) | JavaScript | Proyecto de desempeño web |
-| [SIA-proyecto](https://github.com/esteban95-a/SIA-proyecto) | HTML | Proyecto SIA |
-| [taller-consulta-arreglo](https://github.com/esteban95-a/taller-consulta-arreglo) | JavaScript | Taller de consulta de arreglos |
-| [evidencia-conocimiento-tercer-momento-web-uno-sabado](https://github.com/esteban95-a/evidencia-conocimiento-tercer-momento-web-uno-sabado) | - | Evidencia de conocimiento web |
+| [React-gestion-notas-grupo-8](https://github.com/esteban95-a/React-gestion-notas-grupo-8) | JavaScript, CSS, HTML | App web con React + Vite para CRUD de estudiantes y gestión de notas académicas |
+| [sistema-gestion-notas-grupo-8](https://github.com/esteban95-a/sistema-gestion-notas-grupo-8) | Java, Docker | API REST con Spring Boot + PostgreSQL para gestión de notas estudiantiles |
+| [Sistema_Gestion_notas_grupo_8_Python](https://github.com/esteban95-a/Sistema_Gestion_notas_grupo_8_Python) | Python | Sistema académico en Python con backend, frontend y módulo de análisis de calificaciones |
+| [control-lavanderia](https://github.com/esteban95-a/control-lavanderia) | Java | API REST con Spring Boot para control de servicios y gestión de lavandería |
+| [app-crm](https://github.com/esteban95-a/app-crm) | JavaScript | Aplicación CRM client-side con arquitectura MVC para gestión de clientes |
+| [cesde_backend2_ejemplo_servicio](https://github.com/esteban95-a/cesde_backend2_ejemplo_servicio) | Java | Proyecto backend Spring Boot de ejemplo con documentación técnica |
+| [26_b2_r1](https://github.com/esteban95-a/26_b2_r1) | Java | API REST CRUD en Java 21 + Spring Boot + PostgreSQL para gestión de estudiantes |
+| [desempeno-web-uno-sabado](https://github.com/esteban95-a/desempeno-web-uno-sabado) | JavaScript | Ejercicios prácticos: Control de Gastos, Gestor de Héroe RPG, Inventario de Tienda, Mascota Virtual |
+| [SIA-proyecto](https://github.com/esteban95-a/SIA-proyecto) | HTML | Sitio web colaborativo con múltiples páginas para proyecto institucional Cesde |
+| [taller-consulta-arreglo](https://github.com/esteban95-a/taller-consulta-arreglo) | JavaScript | Taller de consulta, manipulación y algoritmos con arreglos en JavaScript |
+| [evidencia-conocimiento-tercer-momento-web-uno-sabado](https://github.com/esteban95-a/evidencia-conocimiento-tercer-momento-web-uno-sabado) | - | Evidencia de evaluación con criterios y consultas sobre desarrollo web |
 
 ---
 
